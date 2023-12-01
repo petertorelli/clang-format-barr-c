@@ -15,4 +15,3 @@ This is a `.clang-format` file that attempts to implement the [Barr Group's form
 
 1. Align trailing comments doesn't always work on multi-line top-level function definitions
 2. [Pre-processor indentation affects nearby comment spacing](https://github.com/petertorelli/clang-format-barr-c/issues/2)
-3. [Add InsertBraces](https://github.com/petertorelli/clang-format-barr-c/issues/4)
