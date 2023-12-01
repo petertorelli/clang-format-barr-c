@@ -13,7 +13,6 @@ This is a `.clang-format` file that attempts to implement the [Barr Group's form
 
 ## Known Issues:
 
-1. Space before parantheses should only happen during declaration and not call instances, there is no provision for this.
-2. Align trailing comments doesn't always work on multi-line top-level function definitions
-3. [Pre-processor indentation affects nearby comment spacing](https://github.com/petertorelli/clang-format-barr-c/issues/2)
-4. [Add InsertBraces](https://github.com/petertorelli/clang-format-barr-c/issues/4)
+1. Align trailing comments doesn't always work on multi-line top-level function definitions
+2. [Pre-processor indentation affects nearby comment spacing](https://github.com/petertorelli/clang-format-barr-c/issues/2)
+3. [Add InsertBraces](https://github.com/petertorelli/clang-format-barr-c/issues/4)
